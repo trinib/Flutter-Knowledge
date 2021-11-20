@@ -11,6 +11,7 @@ class SecondPage extends StatefulWidget {
 }
 
 class _SecondPageState extends State<SecondPage> {
+  ////a variable to add itemscount
   int number = 1;
   @override
   Widget build(BuildContext context) {
