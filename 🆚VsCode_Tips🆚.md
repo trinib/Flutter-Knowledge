@@ -1,0 +1,26 @@
+*`Crtl + Space` to see all *arguments* of a widget
+#
+`Ctrl + .`  to wrap with column/row etc
+#
+Clicking on `lightbulb` fix stuff
+#
+`Crtl + h` = find and replace
+#
+`Hover` over a class or widget and see *parameters*
+#
+Add `breakpoints`(red dot) in vscode to stop execution points in code
+#
+* `Crtl + Shift + i` to format document
+#
+#
+
+## SETTINGS to turn off
+vscode mini map
+
+dart: preview flutter mini guides
+
+Disable White Vertical Line
+set an empty array in "editor.rulers" in the settings.json 
+#
+#
+

@@ -1,0 +1,102 @@
+{
+  "sync.gist": "e81b2d9313cf6473440ad464214bf24d",
+  "workbench.iconTheme": "material-icon-theme",
+  "genymotion.genymotion.installedPath": "C:/Program Files/Genymobile/Genymotion",
+  "genymotion.virtualBox.installedPath": "C:/Program Files/Oracle/VirtualBox/",
+  "genymotion.genymotion.installedPath": "/opt/genymobile/genymotion",
+  "genymotion.virtualBox.installedPath": "/usr/lib/virtualbox",
+  "[dart]": {
+      "editor.formatOnSave": true,
+      "editor.formatOnType": true,
+      "editor.rulers": [
+          
+      ],
+      "editor.selectionHighlight": false,
+      "editor.suggest.snippetsPreventQuickSuggestions": false,
+      "editor.suggestSelection": "first",
+      "editor.tabCompletion": "onlySnippets",
+      "editor.wordBasedSuggestions": false
+  },
+  "workbench.editor.enablePreview": false,
+  "window.menuBarVisibility": "toggle",
+  "editor.minimap.enabled": false,
+  "dart.previewFlutterUiGuides": true,
+  "dart.automaticCommentSlashes": "none",
+
+  "workbench.colorCustomizations": {
+    "editor.selectionBackground": "#1226d4d3",
+    "editor.hoverHighlightBackground": "#750f0fb9",
+    "editor.selectionHighlightBackground": "#d9d9da44",
+    "editor.lineHighlightBackground": "#ffffff0c",
+    "editorCursor.foreground": "#ff0000",
+    "editor.findMatchBackground": "#00cc44a8",
+    "editor.findMatchHighlightBackground": "#ffffff00"
+},
+
+  "better-comments.tags": [
+      {
+        "tag": "!",
+        "color": "#FF2D00",
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false
+      },
+      {
+        "tag": "?",
+        "color": "#3498DB",
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false
+      },
+      {
+        "tag": "*",
+        "color": "#474747",
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false
+      },
+      {
+        "tag": "todo",
+        "color": "#FF8C00",
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false
+      },
+      {
+        "tag": "/",
+        "color": "#9bb6a5",
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+      }
+    ],
+    "editor.showFoldingControls": "always",
+    "editor.fontSize": 15,
+    "workbench.sideBar.location": "right",
+    "settingsSync.keybindingsPerPlatform": false,
+    "editor.fontFamily": "'Fira Code','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    
+    "editor.fontLigatures": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "better-comments.highlightPlainText": true,
+    "editor.tabSize": 1,
+    "editor.wordWrap": "on",
+    "editor.cursorBlinking": "expand",
+    "editor.suggest.shareSuggestSelections": true,
+    "workbench.activityBar.visible": true,
+    "workbench.view.alwaysShowHeaderActions": true,
+    "breadcrumbs.enabled": true,
+    "editor.renderWhitespace": "none",
+    "workbench.colorTheme": "Best Themes - One Dark Extra",
+
+}
