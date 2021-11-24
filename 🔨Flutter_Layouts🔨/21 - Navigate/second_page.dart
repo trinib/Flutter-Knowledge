@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 
 class SecondPage extends StatelessWidget {
-  ////a variable to access to another page
+  ////need to define route name to access in another page from icon button press function
   static const routeName = "second_page";
   @override
   Widget build(BuildContext context) {
