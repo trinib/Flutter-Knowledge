@@ -6,7 +6,7 @@ Clicking on `lightbulb` fix stuff
 #
 `Crtl + h` = find and replace
 #
-`Hover` over a class or widget and see *parameters*
+`Hover` over a class or widget and see *parameters* / Hold down `ctrl` to see mopre info
 #
 Add `breakpoints`(red dot) in vscode to stop execution points in code
 #
