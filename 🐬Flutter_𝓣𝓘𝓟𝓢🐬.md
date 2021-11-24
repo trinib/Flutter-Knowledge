@@ -23,6 +23,8 @@ fowardVariable = !backVariable
 #
 `setState` function refreshes/update widget
 #
+Make a container first when adding rows in a column
+#
 `Navigate` : 
 ```
 onPressed: () {
