@@ -1,4 +1,4 @@
-*`Crtl + Space` to see all *arguments* of a widget
+`Crtl + Space` to see all *arguments* of a widget
 #
 `Ctrl + .`  to wrap with column/row etc
 #
