@@ -26,4 +26,4 @@ All Dart classes inherit by default from the Object class. They can have public 
 #
 The annotation `@override` marks an instance member as overriding a superclass member with the same name. The annotation applies to instance methods, getters and setters, and to instance fields, where it means that the implicit getter and setter of the field is marked as overriding, but the field itself is not
 #
-`Prefix` mean before & `Suffix` mean after
+`Prefix` mean before & `Suffix` mean after in a widget
