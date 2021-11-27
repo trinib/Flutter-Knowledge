@@ -8,6 +8,8 @@ If a `container` holds no children it takes the whole space so then use child to
 #
 `Padding` is inside space and `Margin` is outside space of a *container*. Use Padding as a widget if want only text
 #
+`SizeBox` widget controls size of other widgets
+#
 Use `Shrink wrap` to control size in listview
 #
 `TextEditingController` keeps track what the user is typing in text field
