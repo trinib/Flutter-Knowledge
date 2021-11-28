@@ -6,7 +6,7 @@ An `agument` don't start with a capital letter and the `widget` does (appBar(App
 #
 If a `container` holds no children it takes the whole space so then use child to restrict/control space
 #
-`Padding` is inside space and `Margin` is outside space of a *container*. Use Padding as a widget if want only text
+`Padding` is inside space and `Margin` is outside space of a *container*. Use Padding as a widget if want only text (EdgeInsets.only(left: 40.0))
 #
 `SizeBox` widget controls size of containers
 #
