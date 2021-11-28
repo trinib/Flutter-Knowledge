@@ -10,7 +10,7 @@ If a `container` holds no children it takes the whole space so then use child to
 #
 `SizeBox` widget controls size of containers
 #
-Use `Shrink wrap` to control size in listview
+ `Shrink wrap` extends the scroll view in the scrollDirection 
 #
 `TextEditingController` keeps track what the user is typing in text field
 #
