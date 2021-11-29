@@ -1,3 +1,7 @@
+`MaterialApp` is a widget that introduces many interesting tools such as Navigator or Theme to help you develop your app.
+#
+`Material` widget is used to define a UI element respecting Material rules. It defines what elevation is, shape, and stuff. Then reused by many material widgets such as Appbar or Card or FloatingButton.
+#
 An `agument` don't start with a capital letter and the `widget` does (appBar(AppBar)
 #
 `ListView` is a very important widget in flutter. It is used to create the list of children But when we want to create a list recursively without writing code again and again then `ListView. builder` is used instead of ListView. `ListView` creates a scrollable, linear array of widgets.
