@@ -14,6 +14,8 @@ If a `container` holds no children it takes the whole space so then use child to
 #
 `TextEditingController` keeps track what the user is typing in text field
 #
+`MediaQuery` is used to check the current device's orientation or can be used to check if the user has modified the default font size
+#
 Basically a `container` is like a box to store contents
 #
 To call the oppsite/reverse of an variable use `!`.For example:
