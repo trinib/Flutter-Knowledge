@@ -14,7 +14,7 @@ In a **container** `padding` is inside space and `margin` is outside space.Use P
 #
 `Padding` widget add some extra space around a widget
 #
-`SizeBox` widget controls size of containers
+`SizeBox` widget controls size of other widgets. It can be used to take up space
 #
  `Shrink wrap` extends the scroll view in the scrollDirection https://dartpad.dev/workshops.html?webserver=https://fdr-shrinkwrap-slivers.web.app
 #
