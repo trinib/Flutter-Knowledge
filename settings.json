@@ -20,7 +20,6 @@
   "workbench.editor.enablePreview": false,
   "window.menuBarVisibility": "toggle",
   "editor.minimap.enabled": false,
-  "dart.previewFlutterUiGuides": true,
   "dart.automaticCommentSlashes": "none",
 
   "workbench.colorCustomizations": {
@@ -30,7 +29,7 @@
     "editor.lineHighlightBackground": "#ffffff0c",
     "editorCursor.foreground": "#ff0000",
     "editor.findMatchBackground": "#00cc44a8",
-    "editor.findMatchHighlightBackground": "#ffffff00"
+    "editor.findMatchHighlightBackground": "#ffffff00",
 },
 
   "better-comments.tags": [
@@ -54,7 +53,7 @@
       },
       {
         "tag": "*",
-        "color": "#91c8e7f6",
+        "color": "#82b2cef6",
         "strikethrough": false,
         "underline": true,
         "backgroundColor": "transparent",
@@ -76,28 +75,40 @@
         "strikethrough": false,
         "underline": false,
         "backgroundColor": "transparent",
-        "bold": true,
-        "italic": true,
+        "bold": false,
+        "italic": false,
       }
     ],
-  
+    
     "editor.showFoldingControls": "always",
     "editor.fontSize": 15,
     "workbench.sideBar.location": "right",
     "settingsSync.keybindingsPerPlatform": false,
-    "editor.fontFamily": "'Hack',','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontFamily": "'Hack','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
     
     "editor.fontLigatures": true,
     "editor.cursorSmoothCaretAnimation": true,
     "better-comments.highlightPlainText": true,
-    "editor.tabSize": 1,
-    "editor.wordWrap": "on",
     "editor.cursorBlinking": "expand",
+    "editor.cursorWidth": 3,
     "editor.suggest.shareSuggestSelections": true,
-    "workbench.activityBar.visible": true,
     "workbench.view.alwaysShowHeaderActions": true,
     "breadcrumbs.enabled": true,
     "editor.renderWhitespace": "none",
     "workbench.colorTheme": "Best Themes - One Dark Extra",
-
+    "dart.previewFlutterUiGuides": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    
+    "editor.tokenColorCustomizations": {
+      "textMateRules": [{
+        "scope": [
+          "entity.name.function",
+          "entity.name.method",
+        ],
+        "settings": {
+          "fontStyle": "bold"
+        }
+      }]
+    }
 }
