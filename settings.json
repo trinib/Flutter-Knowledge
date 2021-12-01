@@ -54,8 +54,8 @@
       },
       {
         "tag": "*",
-        "color": "#474747",
-        "strikethrough": true,
+        "color": "#a491e7f6",
+        "strikethrough": false,
         "underline": false,
         "backgroundColor": "transparent",
         "bold": false,
@@ -84,7 +84,7 @@
     "editor.fontSize": 15,
     "workbench.sideBar.location": "right",
     "settingsSync.keybindingsPerPlatform": false,
-    "editor.fontFamily": "''Hack',','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontFamily": "'Hack',','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
     
     "editor.fontLigatures": true,
     "editor.cursorSmoothCaretAnimation": true,
