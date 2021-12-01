@@ -80,6 +80,7 @@
         "italic": true,
       }
     ],
+  
     "editor.showFoldingControls": "always",
     "editor.fontSize": 15,
     "workbench.sideBar.location": "right",
