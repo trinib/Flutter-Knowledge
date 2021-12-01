@@ -54,11 +54,11 @@
       },
       {
         "tag": "*",
-        "color": "#a491e7f6",
+        "color": "#91c8e7f6",
         "strikethrough": false,
-        "underline": false,
+        "underline": true,
         "backgroundColor": "transparent",
-        "bold": false,
+        "bold": true,
         "italic": false
       },
       {
@@ -76,7 +76,7 @@
         "strikethrough": false,
         "underline": false,
         "backgroundColor": "transparent",
-        "bold": false,
+        "bold": true,
         "italic": true,
       }
     ],
