@@ -61,7 +61,7 @@
         "italic": false
       },
       {
-        "tag": "todo",
+        "tag": "+",
         "color": "#FF8C00",
         "strikethrough": false,
         "underline": false,
