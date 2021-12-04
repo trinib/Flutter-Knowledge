@@ -23,11 +23,11 @@
   "dart.automaticCommentSlashes": "none",
 
   "workbench.colorCustomizations": {
-    "editor.selectionBackground": "#1226d4d3",
+    "editor.selectionBackground": "#1225d46c",
     "editor.hoverHighlightBackground": "#750f0fb9",
     "editor.selectionHighlightBackground": "#d9d9da44",
     "editor.lineHighlightBackground": "#ffffff0c",
-    "editorCursor.foreground": "#ff0000",
+    "editorCursor.foreground": "#ffffff",
     "editor.findMatchBackground": "#00cc44a8",
     "editor.findMatchHighlightBackground": "#ffffff00",
 },
@@ -90,7 +90,7 @@
     "editor.cursorSmoothCaretAnimation": true,
     "better-comments.highlightPlainText": true,
     "editor.cursorBlinking": "expand",
-    "editor.cursorWidth": 3,
+    "editor.cursorWidth": 2,
     "editor.suggest.shareSuggestSelections": true,
     "workbench.view.alwaysShowHeaderActions": true,
     "breadcrumbs.enabled": true,
