@@ -33,6 +33,8 @@ fowardVariable = !backVariable
 #
 `width/lenght: double.infinity` takes all the space
 #
+`Bool `if true (?) else false (:)
+#
 `setState` function refreshes/update widget
 #
 Make a container first when adding rows in a column
