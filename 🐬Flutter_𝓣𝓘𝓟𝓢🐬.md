@@ -37,7 +37,7 @@ fowardVariable = !backVariable
 #
 `setState` function refreshes/update widget
 #
-Make a container first when adding rows in a column
+Make a container first when adding rows in a column, use column to add below and row to add to the right
 #
 `Navigate` : 
 ```
