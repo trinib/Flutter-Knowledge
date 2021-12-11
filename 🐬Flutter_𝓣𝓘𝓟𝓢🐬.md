@@ -6,6 +6,8 @@ An `agument` don't start with a capital letter and the `widget` does (appBar(App
 #
 `ListView` is a very important widget in flutter. It is used to create the list of children But when we want to create a list recursively without writing code again and again then `ListView. builder` is used instead of ListView. `ListView` creates a scrollable, linear array of widgets.
 #
+`BoxDecoration` is important for customizing widgets
+#
 `Positioned` widget controls where a child of a [Stack] is positioned.
 #
 If a `container` holds no children it takes the whole space so then use child to restrict/control space
