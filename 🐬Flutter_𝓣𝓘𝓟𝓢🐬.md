@@ -4,6 +4,8 @@
 #
 An `agument` don't start with a capital letter and the `widget` does (appBar(AppBar)
 #
+'home' argument sets main/default front page of app if not using routes to a navigated page
+#
 `ListView` is a very important widget in flutter. It is used to create the list of children But when we want to create a list recursively without writing code again and again then `ListView. builder` is used instead of ListView. `ListView` creates a scrollable, linear array of widgets.
 #
 `BoxDecoration` is important for customizing widgets
