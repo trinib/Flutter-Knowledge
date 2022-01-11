@@ -14,6 +14,8 @@ An `agument` don't start with a capital letter and the `widget` does (appBar(App
 #
 If a `container` holds no children it takes the whole space so then use child to restrict/control space
 #
+`Stacks` overlap other stacks
+#
 In a **container** `padding` is inside space and `margin` is outside space.Use Padding as a widget if want only text (EdgeInsets.only(left: 40.0))
 #
 `Padding` widget add some extra space around a widget
