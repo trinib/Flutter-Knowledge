@@ -1,10 +1,10 @@
 {
   "sync.gist": "e81b2d9313cf6473440ad464214bf24d",
   "workbench.iconTheme": "material-icon-theme",
-  "genymotion.genymotion.installedPath": "C:/Program Files/Genymobile/Genymotion",
-  "genymotion.virtualBox.installedPath": "C:/Program Files/Oracle/VirtualBox/",
   "genymotion.genymotion.installedPath": "/opt/genymobile/genymotion",
   "genymotion.virtualBox.installedPath": "/usr/lib/virtualbox",
+  "genymotion.genymotion.installedPath": "C:/Program Files/Genymobile/Genymotion",
+  "genymotion.virtualBox.installedPath": "C:/Program Files/Oracle/VirtualBox/",
   "[dart]": {
       "editor.formatOnSave": true,
       "editor.formatOnType": true,
@@ -21,6 +21,7 @@
   "window.menuBarVisibility": "toggle",
   "editor.minimap.enabled": false,
   "dart.automaticCommentSlashes": "none",
+  
 
   "workbench.colorCustomizations": {
     "editor.selectionBackground": "#1225d46c",
@@ -81,7 +82,7 @@
     ],
     
     "editor.showFoldingControls": "always",
-    "editor.fontSize": 15,
+    "editor.fontSize": 17,
     "workbench.sideBar.location": "right",
     "settingsSync.keybindingsPerPlatform": false,
     "editor.fontFamily": "'Hack','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
@@ -110,5 +111,8 @@
           "fontStyle": "bold"
         }
       }]
-    }
+    },
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.guides.bracketPairsHorizontal": true
 }
