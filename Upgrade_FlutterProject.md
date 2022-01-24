@@ -13,6 +13,8 @@ To change to another channel, use flutter channel <channel-name>. Once you’ve 
 2. Run `dart migrate` to run the dart migration tool
 
 3. Solve all errors which the migration tool shows
+    
+#### In project directory
 
 4. Run `flutter pub outdated --mode=null-safety` to print all outdated packages
 
