@@ -31,3 +31,8 @@ To change to another channel, use flutter channel <channel-name>. Once you’ve 
 #### Run `flutter run` in the command line and the application should run with the command line displaying:
 <p align="center">
  <img src="https://images.squarespace-cdn.com/content/v1/5e21c28ef672a441155d129c/1615584926330-VZDHBBEGOFWRDFQK66KG/Screenshot+2021-03-09+at+22.14.28.png?format=750w">
+    
+## Flutter fails to run after cloning repo
+```
+flutter upgrade; flutter pub upgrade
+```
