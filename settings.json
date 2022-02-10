@@ -24,7 +24,14 @@
   
 
   "workbench.colorCustomizations": {
-    "editorOverviewRuler.border": "#fa5ec6c7",
+    "statusBar.background" : "#100f5c44",
+    "statusBar.noFolderBackground" : "#ff000057",
+    "statusBar.debuggingBackground": "#1ac762da",
+    "titleBar.activeBackground": "#100f5c44",
+    "titleBar.activeForeground": "#ffffff",
+    "titleBar.inactiveBackground": "#05051d44",
+    "titleBar.inactiveForeground": "#cccccc",
+    "editorOverviewRuler.border": "#4d39a8cb",
     "editor.selectionBackground": "#1225d46c",
     "editor.hoverHighlightBackground": "#750f0fb9",
     "editor.selectionHighlightBackground": "#d9d9da44",
