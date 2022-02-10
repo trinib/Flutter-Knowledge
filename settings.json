@@ -24,6 +24,7 @@
   
 
   "workbench.colorCustomizations": {
+    "editorOverviewRuler.border": "#fa5ec6c7",
     "editor.selectionBackground": "#1225d46c",
     "editor.hoverHighlightBackground": "#750f0fb9",
     "editor.selectionHighlightBackground": "#d9d9da44",
