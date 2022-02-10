@@ -41,6 +41,8 @@ fowardVariable = !backVariable
 #
 `Bool `if true (?) else false (:)
 #
+`Constructor` is a special method of Dart class which is automatically called when the object is created. The constructor is like a function with/without parameter but it doesn't have a return type. ... If we don't define any constructor, the default constructor below will be created.
+#
 `setState` function refreshes/update widget
 #
 Make a container first when adding rows in a column, use column to add below and row to add to the right
