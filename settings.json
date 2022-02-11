@@ -1,126 +1,133 @@
 {
-  "sync.gist": "e81b2d9313cf6473440ad464214bf24d",
-  "workbench.iconTheme": "material-icon-theme",
-  "genymotion.genymotion.installedPath": "/opt/genymobile/genymotion",
-  "genymotion.virtualBox.installedPath": "/usr/lib/virtualbox",
-  "genymotion.genymotion.installedPath": "C:/Program Files/Genymobile/Genymotion",
-  "genymotion.virtualBox.installedPath": "C:/Program Files/Oracle/VirtualBox/",
-  "[dart]": {
-      "editor.formatOnSave": true,
-      "editor.formatOnType": true,
-      "editor.rulers": [
-          
-      ],
-      "editor.selectionHighlight": false,
-      "editor.suggest.snippetsPreventQuickSuggestions": false,
-      "editor.suggestSelection": "first",
-      "editor.tabCompletion": "onlySnippets",
-      "editor.wordBasedSuggestions": false
-  },
-  "workbench.editor.enablePreview": false,
-  "window.menuBarVisibility": "toggle",
-  "editor.minimap.enabled": false,
-  "dart.automaticCommentSlashes": "none",
-  
-
-  "workbench.colorCustomizations": {
-    "statusBar.background" : "#100f5c44",
-    "statusBar.noFolderBackground" : "#ff000057",
-    "statusBar.debuggingBackground": "#1ac762da",
-    "titleBar.activeBackground": "#100f5c44",
-    "titleBar.activeForeground": "#ffffff",
-    "titleBar.inactiveBackground": "#05051d44",
-    "titleBar.inactiveForeground": "#cccccc",
-    "editorOverviewRuler.border": "#4d39a8cb",
-    "editor.selectionBackground": "#1225d46c",
-    "editor.hoverHighlightBackground": "#750f0fb9",
-    "editor.selectionHighlightBackground": "#d9d9da44",
-    "editor.lineHighlightBackground": "#ffffff0c",
-    "editorCursor.foreground": "#ffffff",
-    "editor.findMatchBackground": "#00cc44a8",
-    "editor.findMatchHighlightBackground": "#ffffff00",
-},
-
-  "better-comments.tags": [
-      {
-        "tag": "!",
-        "color": "#FF2D00",
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false
-      },
-      {
-        "tag": "?",
-        "color": "#3498DB",
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false
-      },
-      {
-        "tag": "*",
-        "color": "#82b2cef6",
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false
-      },
-      {
-        "tag": "+",
-        "color": "#FF8C00",
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false
-      },
-      {
-        "tag": "/",
-        "color": "#9bb6a5",
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-      }
-    ],
-    
-    "editor.showFoldingControls": "always",
-    "editor.fontSize": 17,
-    "workbench.sideBar.location": "right",
-    "settingsSync.keybindingsPerPlatform": false,
-    "editor.fontFamily": "'Hack','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
-    
-    "editor.fontLigatures": true,
-    "editor.cursorSmoothCaretAnimation": true,
-    "better-comments.highlightPlainText": true,
-    "editor.cursorBlinking": "expand",
-    "editor.cursorWidth": 2,
-    "editor.suggest.shareSuggestSelections": true,
-    "workbench.view.alwaysShowHeaderActions": true,
-    "breadcrumbs.enabled": true,
-    "editor.renderWhitespace": "none",
-    "workbench.colorTheme": "Best Themes - One Dark Extra",
-    "dart.previewFlutterUiGuides": true,
-    "git.confirmSync": false,
-    "git.enableSmartCommit": true,
-    
-    "editor.tokenColorCustomizations": {
-      "textMateRules": [{
-        "scope": [
-          "entity.name.function",
-          "entity.name.method",
+    "sync.gist": "e81b2d9313cf6473440ad464214bf24d",
+    "workbench.iconTheme": "material-icon-theme",
+    "genymotion.genymotion.installedPath": "/opt/genymobile/genymotion",
+    "genymotion.virtualBox.installedPath": "/usr/lib/virtualbox",
+    "genymotion.genymotion.installedPath": "C:/Program Files/Genymobile/Genymotion",
+    "genymotion.virtualBox.installedPath": "C:/Program Files/Oracle/VirtualBox/",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            
         ],
-        "settings": {
-          "fontStyle": "bold"
-        }
-      }]
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
     },
-    "editor.bracketPairColorization.enabled": true,
-    "editor.guides.bracketPairs": true,
-    "editor.guides.bracketPairsHorizontal": true
-}
+    "workbench.editor.enablePreview": false,
+    "window.menuBarVisibility": "toggle",
+    "editor.minimap.enabled": false,
+    "dart.automaticCommentSlashes": "none",
+    
+  
+    "workbench.colorCustomizations": {
+      "tab.activeBorder": "#d19a66",
+      "tab.activeBackground": "#372977cb",
+      "statusBar.background" : "#100f5c44",
+      "statusBar.noFolderBackground" : "#ff000057",
+      "statusBar.debuggingBackground": "#0b5e2e86",
+      "titleBar.activeBackground": "#100f5c44",
+      "titleBar.activeForeground": "#ffffff",
+      "titleBar.inactiveBackground": "#05051d44",
+      "titleBar.inactiveForeground": "#cccccc",
+      "editorOverviewRuler.border": "#4d39a8cb",
+      "editor.selectionBackground": "#1225d46c",
+      "editor.hoverHighlightBackground": "#750f0fb9",
+      "editor.selectionHighlightBackground": "#d9d9da44",
+      "editor.lineHighlightBackground": "#ffffff0c",
+      "editorCursor.foreground": "#ffffff",
+      "editor.findMatchBackground": "#00cc44a8",
+      "editor.findMatchHighlightBackground": "#ffffff00",
+  },
+  
+    "better-comments.tags": [
+        {
+          "tag": "!",
+          "color": "#FF2D00",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "?",
+          "color": "#3498DB",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "*",
+          "color": "#82b2cef6",
+          "strikethrough": false,
+          "underline": true,
+          "backgroundColor": "transparent",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "tag": "+",
+          "color": "#FF8C00",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "/",
+          "color": "#9bb6a5",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false,
+        }
+      ],
+      
+      "editor.showFoldingControls": "always",
+      "editor.lineHeight": 20,
+      "editor.fontSize": 16,
+      "workbench.sideBar.location": "right",
+      "settingsSync.keybindingsPerPlatform": false,
+      "editor.fontFamily": "'Hack','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+      
+      "editor.fontLigatures": true,
+      "editor.cursorSmoothCaretAnimation": true,
+      "better-comments.highlightPlainText": true,
+      "editor.cursorBlinking": "expand",
+      "editor.cursorWidth": 2,
+      "editor.suggest.shareSuggestSelections": true,
+      "workbench.view.alwaysShowHeaderActions": true,
+      "breadcrumbs.enabled": true,
+      "editor.renderWhitespace": "none",
+      "dart.previewFlutterUiGuides": true,
+      "git.confirmSync": false,
+      "git.enableSmartCommit": true,
+      
+      "editor.tokenColorCustomizations": {
+        "textMateRules": [{
+          "scope": [
+            "entity.name.function",
+            "entity.name.method",
+          ],
+          "settings": {
+            "fontStyle": "bold"
+          }
+        }]
+      },
+      "editor.bracketPairColorization.enabled": true,
+      "editor.guides.bracketPairs": true,
+      "editor.guides.bracketPairsHorizontal": true,
+      "dart.debugExternalPackageLibraries": true,
+      "dart.debugSdkLibraries": true,
+      "workbench.colorTheme": "Best Themes - One Dark Extra",
+      "workbench.activityBar.visible": false
+      
+  }
