@@ -92,8 +92,8 @@
       ],
       
       "editor.showFoldingControls": "always",
-      "editor.lineHeight": 20,
-      "editor.fontSize": 16,
+      "editor.lineHeight": 21,
+      "editor.fontSize": 17,
       "workbench.sideBar.location": "right",
       "settingsSync.keybindingsPerPlatform": false,
       "editor.fontFamily": "'Hack','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
