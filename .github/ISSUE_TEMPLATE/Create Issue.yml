@@ -24,7 +24,7 @@ body:
         - Stubby 
     validations:
       required: true
-  - type: checkboxes
+  - type: dropdown
     id: platforms
     attributes:
       label: Platforms
