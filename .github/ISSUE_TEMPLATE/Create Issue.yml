@@ -61,7 +61,6 @@ body:
     id: projectd
     attributes:
       label: Projectd
-      multiple: true
       description: Which project/projects has issue ?
       options:
         - Aduard Home
