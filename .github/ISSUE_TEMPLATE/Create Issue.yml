@@ -1,14 +1,14 @@
-name: Bug Report
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
+name: Create Issue
+description: ❗ Ceate only if using Raspberry Pi & Raspbian OS ❗
+title: "[New Issue]: "
+labels: [""]
 assignees:
   - octocat
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Before making issue please meet Prerequisites (❗Required❗)
   - type: input
     id: contact
     attributes:
@@ -20,7 +20,7 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: What happened?
+      label: Issue Description:
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
       value: "A bug happened!"
