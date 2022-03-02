@@ -1,6 +1,6 @@
 name: Create Issue
 description: ❗ Ceate only if using Raspberry Pi & Raspbian OS ❗
-title: "[Bug]: "
+title: "[Issue]: "
 labels: [""]
 assignees:
   - 
@@ -22,10 +22,13 @@ body:
     id: version
     attributes:
       label: Version
-      description: What version of our software are you running?
+      description: Which project/projects has issue ?
       options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+        - Aduard Home
+        - Wireguard
+        - Unbound
+        - Cloudflare
+        - Stubby 
     validations:
       required: true
   - type: dropdown
