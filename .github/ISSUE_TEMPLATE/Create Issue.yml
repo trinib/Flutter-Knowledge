@@ -52,6 +52,14 @@ body:
         - Other 
     validations:
       required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: 
+      placeholder:
+    validations:
+      required: false
   - type: checkboxes
     id: terms
     attributes:
