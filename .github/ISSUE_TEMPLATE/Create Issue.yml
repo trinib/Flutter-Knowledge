@@ -62,7 +62,7 @@ body:
     attributes:
       label: Projectd
       description: Which project/projects has issue ?
-      options:
+      label:
         - Aduard Home
         - Wireguard
         - Unbound
