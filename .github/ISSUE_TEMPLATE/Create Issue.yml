@@ -44,12 +44,12 @@ body:
       label: Issue Type
       description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
       options:
+          required: true
         - label: Not working
         - label: Slow speeds
         - label: Not installing
         - label: Other (explain in Issue description)
-      validations:
-        required: true
+          required: true
   - type: textarea
     id: what-happened
     attributes:
