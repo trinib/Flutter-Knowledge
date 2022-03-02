@@ -44,17 +44,9 @@ body:
         - Chrome
         - Brave
         - Opera
-        - Other 
+        - Edge 
     validations:
       required: true
-  - type: input
-    id: contact
-    attributes:
-      label: Name of other browser
-      description: 
-      placeholder:
-    validations:
-      required: false
   - type: checkboxes
     id: terms
     attributes:
