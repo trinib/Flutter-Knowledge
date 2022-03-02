@@ -25,15 +25,19 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: browsers
+    id: version
     attributes:
-      label: What browsers are you seeing the problem on?
+      label: Version
       multiple: true
+      description: Which project/projects has issue ?
       options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+        - Aduard Home
+        - Wireguard
+        - Unbound
+        - Cloudflare
+        - Stubby 
+    validations:
+      required: true
   - type: checkboxes
     id: terms
     attributes:
