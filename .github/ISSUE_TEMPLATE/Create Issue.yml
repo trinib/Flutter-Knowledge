@@ -47,11 +47,12 @@ body:
         - Edge 
     validations:
       required: true
-  - type: checkboxes
-    id: terms
+  - type: dropdown
+    id: Issue
     attributes:
-      label: Issue Type (Optional)
-      description: 
+      label: Issue
+      multiple: true
+      description: Issue Type (Optional
       options:
         - label: Not working
         - label: Not installing
@@ -65,4 +66,4 @@ body:
       placeholder: 
       value:
     validations:
-      required: false
+      required: true
