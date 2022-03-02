@@ -42,13 +42,13 @@ body:
     id: terms
     attributes:
       label: Issue Type
+      required: true
       description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
       options:
         - label: Not working
         - label: Slow speeds
         - label: Not installing
         - label: Other (explain in Issue description)
-          required: true
   - type: textarea
     id: what-happened
     attributes:
