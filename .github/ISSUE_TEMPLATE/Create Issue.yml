@@ -24,7 +24,7 @@ body:
         - Stubby 
     validations:
       required: true
-  - type: dropdown
+  - type: checkboxes
     id: platforms
     attributes:
       label: Platforms
@@ -49,7 +49,7 @@ body:
         - label: Not installing
         - label: Other (explain in Issue description)
           required: true
-  - type: checkboxes
+  - type: textarea
     id: what-happened
     attributes:
       label: What happened?
