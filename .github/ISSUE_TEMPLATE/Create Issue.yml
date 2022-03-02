@@ -54,6 +54,6 @@ body:
       label: Issue Description?
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
-      value: ""
+      value:
     validations:
       required: false
