@@ -38,6 +38,20 @@ body:
         - IOS
     validations:
       required: true
+    - type: dropdown
+    id: browsers
+    attributes:
+      label: Browsers
+      multiple: true
+      description: Which browser/browsers is used?
+      options:
+        - Firefox
+        - Chrome
+        - Brave
+        - Opera
+        - Other
+    validations:
+      required: true
   - type: checkboxes
     id: terms
     attributes:
