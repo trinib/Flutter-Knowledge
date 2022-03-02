@@ -41,7 +41,7 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: Issue Type
+      label: Issue Type (Optional)
       description: 
       options:
         - label: Not working
@@ -56,4 +56,4 @@ body:
       placeholder: 
       value:
     validations:
-      required: false
+      required: true
