@@ -43,8 +43,6 @@ body:
     attributes:
       label: Issue Type
       description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
-      validations:
-      required: true
       options:
         - label: Not working
         - label: Slow speeds
