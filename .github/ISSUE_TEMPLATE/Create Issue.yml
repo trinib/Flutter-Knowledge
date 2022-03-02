@@ -48,6 +48,8 @@ body:
         - label: Slow speeds
         - label: Not installing
         - label: Other (explain in Issue description)
+      validations:
+        required: true
   - type: textarea
     id: what-happened
     attributes:
@@ -55,18 +57,5 @@ body:
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
       value: "A bug happened!"
-    validations:
-      required: true
-  - type: checkboxes
-    id: projectd
-    attributes:
-      label: Projectd
-      description: Which project/projects has issue ?
-      label:
-        - Aduard Home
-        - Wireguard
-        - Unbound
-        - Cloudflare
-        - Stubby 
     validations:
       required: true
