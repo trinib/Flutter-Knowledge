@@ -15,6 +15,7 @@ body:
     attributes:
       label: Project
       multiple: true
+      required: true
       description: Which project/projects has issue ?
       options:
         - Aduard Home
