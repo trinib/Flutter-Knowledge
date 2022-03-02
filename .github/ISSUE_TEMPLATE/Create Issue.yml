@@ -38,6 +38,20 @@ body:
         - IOS
     validations:
       required: true
+  - type: dropdown
+    id: brwser
+    attributes:
+      label: Projectd
+      multiple: true
+      description: Which project/projects has issue ?
+      options:
+        - Aduard Home
+        - Wireguard
+        - Unbound
+        - Cloudflare
+        - Stubby 
+    validations:
+      required: true
   - type: checkboxes
     id: terms
     attributes:
