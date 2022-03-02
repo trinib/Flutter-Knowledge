@@ -45,13 +45,9 @@ body:
       description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
       options:
         - label: Not working
-          required: true
         - label: Slow speeds
-          required: true
         - label: Not installing
-          required: true
         - label: Other (explain in Issue description)
-          required: true
   - type: textarea
     id: what-happened
     attributes:
