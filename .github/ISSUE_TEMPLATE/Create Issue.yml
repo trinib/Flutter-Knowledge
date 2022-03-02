@@ -57,3 +57,17 @@ body:
       value: "A bug happened!"
     validations:
       required: true
+  - type: checkboxes
+    id: projectd
+    attributes:
+      label: Projectd
+      multiple: true
+      description: Which project/projects has issue ?
+      options:
+        - Aduard Home
+        - Wireguard
+        - Unbound
+        - Cloudflare
+        - Stubby 
+    validations:
+      required: true
