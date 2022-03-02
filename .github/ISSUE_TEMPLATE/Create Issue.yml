@@ -27,15 +27,15 @@ body:
   - type: dropdown
     id: version
     attributes:
-      label: Version
+      label: Platforms
       multiple: true
-      description: Which project/projects has issue ?
+      description: Which platform/platforms is used?
       options:
-        - Aduard Home
-        - Wireguard
-        - Unbound
-        - Cloudflare
-        - Stubby 
+        - Windows
+        - Linux
+        - Mac
+        - Android
+        - IOS
     validations:
       required: true
   - type: checkboxes
