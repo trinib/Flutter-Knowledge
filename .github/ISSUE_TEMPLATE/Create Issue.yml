@@ -11,9 +11,9 @@ body:
         Thanks for taking the time to fill out this bug report!
   
   - type: dropdown
-    id: version
+    id: project
     attributes:
-      label: Version
+      label: Project
       multiple: true
       description: Which project/projects has issue ?
       options:
@@ -25,7 +25,7 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: version
+    id: platforms
     attributes:
       label: Platforms
       multiple: true
