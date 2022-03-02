@@ -42,7 +42,6 @@ body:
     id: terms
     attributes:
       label: Issue Type
-      required: true
       description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
       options:
         - label: Not working
