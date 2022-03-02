@@ -27,7 +27,7 @@ body:
   - type: dropdown
     id: platforms
     attributes:
-      label: Platforms
+      label: Platform
       multiple: true
       description: Which platform/platforms is used?
       options:
