@@ -5,11 +5,6 @@ labels: [""]
 assignees:
   - 
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Before making issue please meet Prerequisites
-  
   - type: dropdown
     id: project
     attributes:
