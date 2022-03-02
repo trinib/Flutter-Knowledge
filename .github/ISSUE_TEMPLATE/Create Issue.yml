@@ -24,7 +24,7 @@ body:
     attributes:
       label: Platform
       multiple: true
-      description: Which platform/platforms is used?
+      description: Which platform/platforms is used ?
       options:
         - Windows
         - Linux
@@ -38,7 +38,7 @@ body:
     attributes:
       label: Browser
       multiple: true
-      description: Which browser/browsers has issue ?
+      description: Which browser/browsers is used ?
       options:
         - Firefox
         - Chrome
