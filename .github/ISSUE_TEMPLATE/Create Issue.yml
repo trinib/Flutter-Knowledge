@@ -48,7 +48,8 @@ body:
         - label: Slow speeds
         - label: Not installing
         - label: Other (explain in Issue description)
-          required: true
+       validations:
+         required: true
   - type: textarea
     id: what-happened
     attributes:
