@@ -15,7 +15,6 @@ body:
     attributes:
       label: Project
       multiple: true
-      required: true
       description: Which project/projects has issue ?
       options:
         - Aduard Home
@@ -45,6 +44,8 @@ body:
         - label: Slow speeds
         - label: Not installing
         - label: Other (explain in Issue description)
+        validations:
+      required: true
   - type: textarea
     id: what-happened
     attributes:
