@@ -42,7 +42,7 @@ body:
     id: terms
     attributes:
       label: Issue Type
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      description: 
       options:
         - label: Not working
         - label: Slow speeds
@@ -51,9 +51,9 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: What happened?
+      label: Issue Description?
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
-      value: "A bug happened!"
+      value: ""
     validations:
       required: false
