@@ -38,7 +38,7 @@ body:
         - Chrome
         - Safari
         - Microsoft Edge
-  - type: markdown
+  - type: checkbox
     id: logs
     attributes:
       label: Issue Description
