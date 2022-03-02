@@ -54,10 +54,10 @@ body:
       multiple: true
       description: Issue Type (Optional
       options:
-        - label: Not working
-        - label: Not installing
-        - label: Slow speeds
-        - label: Other (explain in Issue description)
+        - Not working
+        - Not installing
+        - Slow speeds
+        - Other (explain in Issue description)
   - type: textarea
     id: what-happened
     attributes:
