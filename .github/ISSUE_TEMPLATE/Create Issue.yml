@@ -22,8 +22,6 @@ body:
         - Unbound
         - Cloudflare
         - Stubby 
-    validations:
-      required: true
   - type: dropdown
     id: platforms
     attributes:
