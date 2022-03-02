@@ -37,10 +37,13 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: Code of Conduct
+      label: Issue Type
       description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: Not working
+        - label: Slow speeds
+        - label: Not installing
+        - label: Other (explain in Issue description)
           required: true
   - type: textarea
     id: what-happened
