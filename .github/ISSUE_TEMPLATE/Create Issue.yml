@@ -44,7 +44,6 @@ body:
       label: Issue Type
       description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
       options:
-          required: true
         - label: Not working
         - label: Slow speeds
         - label: Not installing
