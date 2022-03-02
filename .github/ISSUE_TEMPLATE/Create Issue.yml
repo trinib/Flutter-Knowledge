@@ -45,15 +45,15 @@ body:
       description: 
       options:
         - label: Not working
-        - label: Slow speeds
         - label: Not installing
+        - label: Slow speeds
         - label: Other (explain in Issue description)
   - type: textarea
     id: what-happened
     attributes:
       label: Issue Description?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
+      description: 
+      placeholder: 
       value:
     validations:
       required: false
