@@ -39,17 +39,17 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: brwser
+    id: browser
     attributes:
-      label: Projectd
+      label: Broswer
       multiple: true
-      description: Which project/projects has issue ?
+      description: Which browser/browsers has issue ?
       options:
-        - Aduard Home
-        - Wireguard
-        - Unbound
-        - Cloudflare
-        - Stubby 
+        - Firefox
+        - Chrome
+        - Brave
+        - Opera
+        - Other 
     validations:
       required: true
   - type: checkboxes
