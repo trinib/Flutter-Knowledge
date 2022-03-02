@@ -52,7 +52,7 @@ body:
     attributes:
       label: Issue
       multiple: true
-      description: Issue Type (Optional
+      description: Issue Type (Optional)
       options:
         - Not working
         - Not installing
