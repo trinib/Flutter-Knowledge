@@ -22,6 +22,8 @@ body:
         - Unbound
         - Cloudflare
         - Stubby 
+    validations:
+      required: true
   - type: dropdown
     id: platforms
     attributes:
@@ -34,6 +36,8 @@ body:
         - Mac
         - Android
         - IOS
+    validations:
+      required: true
   - type: checkboxes
     id: terms
     attributes:
@@ -44,6 +48,7 @@ body:
         - label: Slow speeds
         - label: Not installing
         - label: Other (explain in Issue description)
+          required: true
   - type: textarea
     id: what-happened
     attributes:
@@ -51,7 +56,5 @@ body:
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
       value: "A bug happened!"
-      validations:
+    validations:
       required: true
-
-
