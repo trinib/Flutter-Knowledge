@@ -58,3 +58,18 @@ body:
       value: "A bug happened!"
     validations:
       required: true
+      
+    - type: checkboxes
+    id: platformss
+    attributes:
+      label: Platformss
+      multiple: true
+      description: Which platform/platforms is used?
+      options:
+        - Windows
+        - Linux
+        - Mac
+        - Android
+        - IOS
+    validations:
+      required: true
