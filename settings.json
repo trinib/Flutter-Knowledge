@@ -128,6 +128,7 @@
       "dart.debugExternalPackageLibraries": true,
       "dart.debugSdkLibraries": true,
       "workbench.colorTheme": "Best Themes - One Dark Extra",
-      "workbench.activityBar.visible": false
+      "workbench.activityBar.visible": false,
+      "editor.parameterHints.enabled": false
       
   }
