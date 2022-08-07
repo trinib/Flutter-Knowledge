@@ -1,5 +1,7 @@
 `Crtl + Space` to see all *arguments* of a widget
 #
+`Crtl + Shift + Space` parameter hints
+#
 `Ctrl + .`  to wrap with column/row etc
 #
 Clicking on `lightbulb` fix stuff
