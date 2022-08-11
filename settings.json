@@ -132,3 +132,28 @@
       "editor.parameterHints.enabled": false
       
   }
+
+///KEYBINDING JSON
+// Empty
+[
+    {
+        "key": "ctrl+g",
+        "command": "-workbench.action.gotoLine"
+    },
+    {
+        "key": "ctrl+alt+g",
+        "command": "workbench.action.gotoLine"
+    },
+    {
+        "key": "ctrl+g",
+        "command": "genymotion.start"
+    },
+    {
+        "key": "ctrl+shift+a",
+        "command": "-workbench.action.togglePanel"
+    },
+    {
+        "key": "ctrl+shift+a",
+        "command": "workbench.action.toggleActivityBarVisibility"
+    }
+]
