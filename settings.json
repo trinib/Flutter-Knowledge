@@ -35,7 +35,7 @@
       "titleBar.inactiveForeground": "#cccccc",
       "editorOverviewRuler.border": "#4d39a8cb",
       "editor.selectionBackground": "#1225d46c",
-      "editor.hoverHighlightBackground": "#750f0fb9",
+      "editor.hoverHighlightBackground": "#79797933",
       "editor.selectionHighlightBackground": "#d9d9da44",
       "editor.lineHighlightBackground": "#ffffff0c",
       "editorCursor.foreground": "#ffffff",
