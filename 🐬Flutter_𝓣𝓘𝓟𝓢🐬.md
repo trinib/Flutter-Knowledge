@@ -2,7 +2,7 @@
 #
 `Material` widget is used to define a UI element respecting Material rules. It defines what elevation is, shape, and stuff. Then reused by many material widgets such as Appbar or Card or FloatingButton.
 #
-An `agument` don't start with a capital letter and the `widget` does (appBar(AppBar)
+An `argument` don't start with a capital letter and the `widget` does (appBar(AppBar)
 #
 `home` widget sets main/default front page of app if not using routes to a navigated page
 #
