@@ -15,7 +15,7 @@
         "editor.suggest.snippetsPreventQuickSuggestions": false,
         "editor.suggestSelection": "first",
         "editor.tabCompletion": "onlySnippets",
-        "editor.wordBasedSuggestions": false
+        "editor.wordBasedSuggestions": "off"
     },
     "workbench.editor.enablePreview": false,
     "window.menuBarVisibility": "toggle",
@@ -38,7 +38,7 @@
       "editor.hoverHighlightBackground": "#79797933",
       "editor.selectionHighlightBackground": "#d9d9da44",
       "editor.lineHighlightBackground": "#ffffff0c",
-      "editorCursor.foreground": "#ffffff",
+      "editorCursor.foreground": "#ff0000",
       "editor.findMatchBackground": "#00cc44a8",
       "editor.findMatchHighlightBackground": "#ffffff00",
   },
@@ -93,13 +93,10 @@
       
       "editor.showFoldingControls": "always",
       "editor.lineHeight": 21,
-      "editor.fontSize": 17,
-      "workbench.sideBar.location": "right",
-      "settingsSync.keybindingsPerPlatform": false,
       "editor.fontFamily": "'Hack','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
       
       "editor.fontLigatures": true,
-      "editor.cursorSmoothCaretAnimation": true,
+      "editor.cursorSmoothCaretAnimation": "on",
       "better-comments.highlightPlainText": true,
       "editor.cursorBlinking": "expand",
       "editor.cursorWidth": 2,
@@ -127,11 +124,37 @@
       "editor.guides.bracketPairsHorizontal": true,
       "dart.debugExternalPackageLibraries": true,
       "dart.debugSdkLibraries": true,
-      "workbench.colorTheme": "Best Themes - One Dark Extra",
-      "workbench.activityBar.visible": false,
-      "editor.parameterHints.enabled": false
+      "editor.parameterHints.enabled": false,
       
-  }
+  "indentRainbow.colors": [
+    "rgba(255,255,64,0.3)",
+    "rgba(127,255,127,0.3)",
+    "rgba(255,127,255,0.3)",
+    "rgba(79,236,236,0.3)"
+  ],
+
+"terminal.integrated.profiles.windows": {
+    "Ubuntu-24.04 (WSL)": {
+        "path": "C:\\Windows\\System32\\wsl.exe",
+        "args": [
+            "-d",
+            "Ubuntu-24.04"
+        ],
+        "icon": "terminal-ubuntu"
+    }
+},
+"terminal.integrated.defaultProfile.windows": "Ubuntu-24.04 (WSL)",
+"terminal.integrated.fontFamily": "FiraCode Nerd Font",
+"terminal.integrated.fontWeightBold": "400",
+"terminal.integrated.defaultProfile.linux": "fish",
+"terminal.integrated.shellIntegration.enabled": true,
+"editor.fontSize": 17,
+"terminal.integrated.fontSize": 15,
+"workbench.sideBar.location": "right",
+"workbench.colorTheme": "Best Themes - Shades of Purple",
+"terminal.integrated.minimumContrastRatio": 1,
+
+}
 
 ///KEYBINDING JSON
 // Empty
